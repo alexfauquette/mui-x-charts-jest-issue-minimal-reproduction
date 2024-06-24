@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.15.2",
     "@mui/styles": "^5.15.2",
-    "@mui/x-charts": "^6.18.4",
+    "@mui/x-charts": "https://pkg.csb.dev/mui/mui-x/commit/c46b4018/@mui/x-charts",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
